@@ -1,0 +1,9 @@
+{
+    "styles":{
+        "website": "./res/remove_publisher.css"
+    },
+    "plugins": [ "-sharing"],
+    "language":"zh-hans",
+    "title":"MIni记账 - 标题",
+    "description":"Mini记账 - 用户指南"
+}
